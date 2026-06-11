@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayush</h1>
-<h3 align="center">Principal Software Architect | Founding Engineer | AI & Web3 Architect</h3>
+<h3 align="center">Principal Software Architect | AI & Web3 Architect</h3>
 
 <p align="center">
   <em>Building scalable platforms, architecting distributed systems, and bridging the gap between High-Scale Web, Web3, and AI.</em>
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I am a **Principal Software Architect** and **Founding Engineer** with years of experience engineering high-performance systems. Currently, I focus on **scalable frontend architectures**, **Web3 integration**, and **high-performance AI inference**.
+I am a **Principal Software Architect** with years of experience engineering high-performance systems. Currently, I focus on **scalable frontend architectures**, **Web3 integration**, and **high-performance AI inference**.
 
 - 🔭 **Currently working on:** Scaling Next.js platforms to 500k+ monthly active users and optimizing WebRTC video pipelines.
 - 🤝 **I mentor:** Frontend and Mobile developers on code quality, system design, and career growth.
