@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayush</h1>
-<h3 align="center">Principal Software Architect | Founding Engineer | AI & Web3 Architect</h3>
+<h3 align="center">Principal Software Architect | AI & Web3 Architect</h3>
 
 <p align="center">
   <em>Building scalable platforms, architecting distributed systems, and bridging the gap between High-Scale Web, Web3, and AI.</em>
@@ -9,9 +9,9 @@
   <!-- <a href="https://linkedin.com/in/ayushgupta-au">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> -->
-  <a href="mailto:ayush@voozer.site">
+  <!-- <a href="mailto:ayush@voozer.site">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+  </a> -->
 </p>
 
 ---
