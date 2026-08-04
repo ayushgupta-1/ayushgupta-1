@@ -13,13 +13,13 @@
 
 ---
 
-### 💡 Executive Summary
+## Overview
 
 Staff Software Engineer and Founding Engineer with **5+ years of experience** architecting high-throughput distributed platforms, real-time media systems, and production AI infrastructure. Driven by a **"Systems First"** engineering philosophy — prioritizing sub-10ms latencies, high availability, zero-trust observability, and rapid developer velocity.
 
 ---
 
-### 🚀 High-Scale Systems & Impact
+## Production Scale & Core Impact
 
 - **Infrastructure at Scale**: Architected zero-to-one platform infrastructure for Vooz Inc., scaling to **500,000+ Monthly Active Users (MAU)** with zero downtime.
 - **Distributed AI Inference**: Migrated standalone ML models to an **NVIDIA Triton Inference Server** cluster featuring dynamic batching and GPU optimization, scaling throughput to **1,280+ RPS**.
@@ -29,35 +29,35 @@ Staff Software Engineer and Founding Engineer with **5+ years of experience** ar
 
 ---
 
-### 🛠️ Architecture & System Stack
+## Technical Architecture & Systems Stack
 
-#### 💻 Core Languages
+### Core Languages
 ![Go](https://img.shields.io/badge/Go-18181b?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-18181b?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-#### 🤖 AI Infrastructure & Inference
+### AI Infrastructure & Inference
 ![NVIDIA Triton](https://img.shields.io/badge/NVIDIA_Triton-18181b?style=flat-square&logo=nvidia&logoColor=white)
 ![ONNX WebGPU](https://img.shields.io/badge/ONNX_WebGPU%2FWASM-18181b?style=flat-square&logo=onnx&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-18181b?style=flat-square&logo=pytorch&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-18181b?style=flat-square)
 ![Memgraph](https://img.shields.io/badge/Memgraph-18181b?style=flat-square)
 
-#### ⚙️ Backend & Distributed Systems
+### Backend & Distributed Systems
 ![Node.js](https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-18181b?style=flat-square&logo=fastapi&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-18181b?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-18181b?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql&logoColor=white)
 
-#### 📡 Real-Time & Media Systems
+### Real-Time & Media Systems
 ![WebRTC](https://img.shields.io/badge/WebRTC-18181b?style=flat-square&logo=webrtc&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-18181b?style=flat-square&logo=dotnet&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-18181b?style=flat-square&logo=socketdotio&logoColor=white)
 ![Next.js 16](https://img.shields.io/badge/Next.js_16-18181b?style=flat-square&logo=nextdotjs&logoColor=white)
 
-#### ☁️ Cloud, DevOps & Observability
+### Cloud, DevOps & Observability
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-18181b?style=flat-square&logo=kubernetes&logoColor=white)
 ![Azure AKS](https://img.shields.io/badge/Azure_AKS-18181b?style=flat-square&logo=microsoftazure&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-18181b?style=flat-square&logo=argo&logoColor=white)
@@ -67,7 +67,7 @@ Staff Software Engineer and Founding Engineer with **5+ years of experience** ar
 
 ---
 
-### 🧠 Architectural Tenets
+## Engineering Principles & Architecture
 
 1. **Systems-First Resilience**: Design for explicit failure modes, distributed tracing, and graceful degradation under extreme load.
 2. **Edge ML Acceleration**: Offload inference compute to browser-local WebGPU/WASM models to eliminate network round-trips.
